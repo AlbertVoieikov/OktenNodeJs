@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07a25a31-c198-4d2e-a7f9-a91f80dfb593" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/girls/Anton.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/girls/Danil.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/girls/Marina.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    <list default="true" id="07a25a31-c198-4d2e-a7f9-a91f80dfb593" name="Changes" comment="task1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/boys/Kiril.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boys/Kiril.json" beforeDir="false" afterPath="$PROJECT_DIR$/f1/f2/f4/Kiril.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/girls/Marina.json" beforeDir="false" afterPath="$PROJECT_DIR$/f1/f3/Marina.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="okten-nodeJs-hw1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,6 +50,15 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\okten-nodeJs\f1\f3\f5\f6" />
+      <recent name="C:\okten-nodeJs\f1\f3\f5" />
+      <recent name="C:\okten-nodeJs\f1\f3" />
+      <recent name="C:\okten-nodeJs\f1\f2\f4" />
+      <recent name="C:\okten-nodeJs\f1\f2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,8 +68,16 @@
       <option name="presentableId" value="Default" />
       <updated>1660646601062</updated>
       <workItem from="1660646602895" duration="2726000" />
-      <workItem from="1660891544247" duration="3641000" />
+      <workItem from="1660891544247" duration="5000000" />
     </task>
+    <task id="LOCAL-00001" summary="task1">
+      <created>1660895480910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660895480910</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="task1" />
   </component>
 </project>
